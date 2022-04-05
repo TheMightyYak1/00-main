@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my Portfolio" />
         <p className="description">
-          Project 1: <a href="https://www.google.com.au/">Lottery</a> 
+          Project 1: <a href="https://01-lottery-brendan-baker.netlify.app/">Lottery</a> 
         </p>
       </main>
 
