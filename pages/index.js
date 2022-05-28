@@ -22,7 +22,7 @@ export default function Home() {
                 <br></br>
                 The page requires a metamask connection to the Rinkeby Test Network.
                 <br></br>
-                My first project having a react frontend interact with a blockchain.
+                My first project having a react frontend interact with a blockchain network.
               </td>
             </tr>
             <tr></tr>
