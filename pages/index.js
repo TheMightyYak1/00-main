@@ -12,8 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Brendan's Portfolio" />
-        <p className="description">
-          <table>
+          <table class="center" style={{width: '80%'}}>
             <tr>
               <td nowrap="true">Project 1:</td>
               <td nowrap="true"><a href="https://01-lottery-brendan-baker.netlify.app/" target="_blank" rel="noopener noreferrer">Lottery</a> - </td>
@@ -37,10 +36,7 @@ export default function Home() {
                 Much of my time spent developing and testing a functioning upgradeable contract system, using OpenZeppelin's API. However, the project team opted to simplify and deploy without upgradeability.
               </td>
             </tr>
-
-
-          </table> 
-        </p>
+          </table>
       </main>
 
       <Footer />
